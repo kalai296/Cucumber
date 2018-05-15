@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/20446583/Downloads/cucumber_1.1.1.jar_files/cucumber-core-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/20446583/Downloads/cucumber_html_0.2.2.jar_files/cucumber-html-0.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/20446583/Downloads/cucumber-java-1.1.1.jar_files/cucumber-java-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/20446583/Downloads/cucumber-junit-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/20446583/Downloads/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/20446583/Downloads/jchronic-jar_files/jchronic-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/20446583/Downloads/junit-4.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
